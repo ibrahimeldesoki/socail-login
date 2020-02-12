@@ -40,9 +40,9 @@ return [
          'redirect' => 'https://demo.corinthi.com/login/google/callback'
     ],
      'twitter' => [
-                'client_id' =>'8MwH9P9kfyvZKhhRvc3OFurXH',
-                'client_secret' =>'h01lU5FYr1qeIyQcCnroCH1eR5apXLkOqkWZPF19VllCr8y8Jb',
-                'redirect' => 'https://demo.corinthi.com/login/twitter/callback'
+                'client_id' =>'QYvf97IkOLGl1bjngeDW7ohka',
+                'client_secret' =>'Z2RGkwmHKpoyYmJ4qXdzmWpsndx4i7ExZR2W58UI54BpwojTVw',
+                'redirect' => 'http://127.0.0.1:8000/login/twitter/callback'
      ],
     'linkedin' => [
             'client_id' =>'77nrivo9cyagi8',
